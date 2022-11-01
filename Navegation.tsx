@@ -109,13 +109,14 @@ export default function Navegation(){
 
 const styles = StyleSheet.create({
   bottonPlus:{
+    position: 'absolute',
     height: '5%',
-    width: '10%',
-    borderRadius: 22,
+    width: '11%',
+    borderRadius: 30,
     backgroundColor: '#E14040',
     justifyContent: 'center',
-    top:'-7%',
-    left: '47%'
+    top:'92%',
+    left: '45%'
 
   },
   textPlus:{
